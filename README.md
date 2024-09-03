@@ -33,3 +33,26 @@ This repository contains a collection of automation scripts for managing and opt
 
 Each script contains comments to help you customize and execute it according to your specific environment.
 
+# Cloud-Automation-Scripts
+
+This repository contains a collection of automation scripts for managing and optimizing cloud infrastructure, performing predictive analytics, and implementing a bidding system.
+
+## Contents
+
+### Predictive Analytics
+- **Predictive-Model.py**: A script to build and evaluate a simple predictive model using Python and Scikit-learn.
+
+### Automation Tools
+- **Data-Cleanup-Automation.py**: A Python script to automate data cleaning tasks, including removing duplicates and handling missing values.
+
+### Bidding System
+- **Bidding-System.py**: A Python script that simulates a simple bidding system where users can place bids, and the highest bidder is determined.
+
+## Usage
+- **Predictive-Analytics/Predictive-Model.py**: Load your dataset and run the script to train a predictive model.
+- **Automation-Tools/Data-Cleanup-Automation.py**: Use this script to clean your dataset before further analysis.
+- **Bidding-System/Bidding-System.py**: Run the script to simulate a bidding process and determine the highest bidder.
+
+Each script contains comments and instructions to help you customize and execute it according to your specific needs.
+
+
